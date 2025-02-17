@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: d209cce018cf4014b9b152d30451384b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7990299255641082586
+    second: Jet Trail_0
+  - first:
+      213: -9082231789970552739
+    second: Jet Trail_1
+  - first:
+      213: -4379529272720028453
+    second: Jet Trail_2
+  - first:
+      213: 6210070920992153858
+    second: Jet Trail_3
+  - first:
+      213: 6020353413122036971
+    second: Jet Trail_4
+  - first:
+      213: -3424179953705492360
+    second: Jet Trail_5
+  - first:
+      213: 7825522902273450121
+    second: Jet Trail_6
+  - first:
+      213: -8823111887665286257
+    second: Jet Trail_7
+  - first:
+      213: -277671072800526821
+    second: Jet Trail_8
+  - first:
+      213: -2559138372961224608
+    second: Jet Trail_9
+  - first:
+      213: -7709857685779195730
+    second: Jet Trail_10
+  - first:
+      213: 1048850371080598769
+    second: Jet Trail_11
+  - first:
+      213: -4845223027231777069
+    second: Jet Trail_12
+  - first:
+      213: 1177173450468345975
+    second: Jet Trail_13
+  - first:
+      213: 5751282378816092004
+    second: Jet Trail_14
+  - first:
+      213: 747451958288780495
+    second: Jet Trail_15
+  - first:
+      213: -4918817139935244805
+    second: Jet Trail_16
+  - first:
+      213: 638920189080232941
+    second: Jet Trail_17
+  - first:
+      213: 1906618492298466426
+    second: Jet Trail_18
+  - first:
+      213: -7107438844099418775
+    second: Jet Trail_19
+  - first:
+      213: 22992689101688583
+    second: Jet Trail_20
+  - first:
+      213: -2270742777387996354
+    second: Jet Trail_21
+  - first:
+      213: -6244524728668847347
+    second: Jet Trail_22
+  - first:
+      213: -9062350508291603567
+    second: Jet Trail_23
+  - first:
+      213: -4433435793169906019
+    second: Jet Trail_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jet Trail_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 263
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada0e8da6de33ee60800000000000000
+      internalID: 7990299255641082586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Trail_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 305
+        width: 223
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d588b078e4e65f180800000000000000
+      internalID: -9082231789970552739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Trail_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 262
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc09188459c833c0800000000000000
+      internalID: -4379529272720028453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jet Trail_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 125
+        width: 223
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20168bba99a9e2650800000000000000
+      internalID: 6210070920992153858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8cc69364a9e26824bbc24e0abfb85bbf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jet Trail_0: 7990299255641082586
+      Jet Trail_1: -9082231789970552739
+      Jet Trail_10: -7709857685779195730
+      Jet Trail_11: 1048850371080598769
+      Jet Trail_12: -4845223027231777069
+      Jet Trail_13: 1177173450468345975
+      Jet Trail_14: 5751282378816092004
+      Jet Trail_15: 747451958288780495
+      Jet Trail_16: -4918817139935244805
+      Jet Trail_17: 638920189080232941
+      Jet Trail_18: 1906618492298466426
+      Jet Trail_19: -7107438844099418775
+      Jet Trail_2: -4379529272720028453
+      Jet Trail_20: 22992689101688583
+      Jet Trail_21: -2270742777387996354
+      Jet Trail_22: -6244524728668847347
+      Jet Trail_23: -9062350508291603567
+      Jet Trail_24: -4433435793169906019
+      Jet Trail_3: 6210070920992153858
+      Jet Trail_4: 6020353413122036971
+      Jet Trail_5: -3424179953705492360
+      Jet Trail_6: 7825522902273450121
+      Jet Trail_7: -8823111887665286257
+      Jet Trail_8: -277671072800526821
+      Jet Trail_9: -2559138372961224608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

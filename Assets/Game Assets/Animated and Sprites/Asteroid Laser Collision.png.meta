@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: ce38ab0909644524f871054e7a6bacae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7192082903901056713
+    second: Asteroid Laser Collision_0
+  - first:
+      213: -6337117391032522550
+    second: Asteroid Laser Collision_1
+  - first:
+      213: 6290703858509240573
+    second: Asteroid Laser Collision_2
+  - first:
+      213: 5496557303299435823
+    second: Asteroid Laser Collision_3
+  - first:
+      213: 4030419343647919928
+    second: Asteroid Laser Collision_4
+  - first:
+      213: -3802390718808078338
+    second: Asteroid Laser Collision_5
+  - first:
+      213: -8337294969984443159
+    second: Asteroid Laser Collision_6
+  - first:
+      213: -4279471843755695464
+    second: Asteroid Laser Collision_7
+  - first:
+      213: -5658539518848188502
+    second: Asteroid Laser Collision_8
+  - first:
+      213: 3576038896976589799
+    second: Asteroid Laser Collision_9
+  - first:
+      213: 8488142768808567372
+    second: Asteroid Laser Collision_10
+  - first:
+      213: 546508918777872994
+    second: Asteroid Laser Collision_11
+  - first:
+      213: 1056800067783866955
+    second: Asteroid Laser Collision_12
+  - first:
+      213: -68798117818909688
+    second: Asteroid Laser Collision_13
+  - first:
+      213: 187533253513835717
+    second: Asteroid Laser Collision_14
+  - first:
+      213: -5162300777995447487
+    second: Asteroid Laser Collision_15
+  - first:
+      213: 6786080193879600872
+    second: Asteroid Laser Collision_16
+  - first:
+      213: 6242432331828459591
+    second: Asteroid Laser Collision_17
+  - first:
+      213: 9061970557700514115
+    second: Asteroid Laser Collision_18
+  - first:
+      213: -1897299066429563721
+    second: Asteroid Laser Collision_19
+  - first:
+      213: -8710122551304829964
+    second: Asteroid Laser Collision_20
+  - first:
+      213: -1861024995088431665
+    second: Asteroid Laser Collision_21
+  - first:
+      213: -6869112755708390563
+    second: Asteroid Laser Collision_22
+  - first:
+      213: 8617316938789903840
+    second: Asteroid Laser Collision_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asteroid Laser Collision_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73151d544b6903c90800000000000000
+      internalID: -7192082903901056713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteroid Laser Collision_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 190
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac86e8fee490e08a0800000000000000
+      internalID: -6337117391032522550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteroid Laser Collision_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 172
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df85f9964d11d4750800000000000000
+      internalID: 6290703858509240573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteroid Laser Collision_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 175
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dedbeceb1b74c40800000000000000
+      internalID: 5496557303299435823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b1bb10819387ba24b99a630153a08b38
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Asteroid Laser Collision_0: -7192082903901056713
+      Asteroid Laser Collision_1: -6337117391032522550
+      Asteroid Laser Collision_10: 8488142768808567372
+      Asteroid Laser Collision_11: 546508918777872994
+      Asteroid Laser Collision_12: 1056800067783866955
+      Asteroid Laser Collision_13: -68798117818909688
+      Asteroid Laser Collision_14: 187533253513835717
+      Asteroid Laser Collision_15: -5162300777995447487
+      Asteroid Laser Collision_16: 6786080193879600872
+      Asteroid Laser Collision_17: 6242432331828459591
+      Asteroid Laser Collision_18: 9061970557700514115
+      Asteroid Laser Collision_19: -1897299066429563721
+      Asteroid Laser Collision_2: 6290703858509240573
+      Asteroid Laser Collision_20: -8710122551304829964
+      Asteroid Laser Collision_21: -1861024995088431665
+      Asteroid Laser Collision_22: -6869112755708390563
+      Asteroid Laser Collision_23: 8617316938789903840
+      Asteroid Laser Collision_3: 5496557303299435823
+      Asteroid Laser Collision_4: 4030419343647919928
+      Asteroid Laser Collision_5: -3802390718808078338
+      Asteroid Laser Collision_6: -8337294969984443159
+      Asteroid Laser Collision_7: -4279471843755695464
+      Asteroid Laser Collision_8: -5658539518848188502
+      Asteroid Laser Collision_9: 3576038896976589799
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
